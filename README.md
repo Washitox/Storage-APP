@@ -6,4 +6,4 @@
 ```
 ## Deploy
 
-https://storage-4b8bc.web.app/
+https://storage-4b8bc.web.app/home
