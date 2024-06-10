@@ -6,4 +6,4 @@
 ```
 ## Deploy
 
-https://github.com/Washitox/Storage-APP.git
+https://storage-4b8bc.web.app/
