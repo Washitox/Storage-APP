@@ -5,3 +5,5 @@
   npm i --legacy-peer-deps
 ```
 ## Deploy
+
+https://github.com/Washitox/Storage-APP.git
